@@ -1,10 +1,11 @@
  
- 
+ import card from ".card.js" 
 
 function App() {
   return (
      <>
-     <h1>Hello Solution</h1></>
+         <card/> 
+    </>
   );
 }
 
